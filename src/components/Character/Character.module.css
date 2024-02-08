@@ -1,8 +1,5 @@
 .character {
   /* Fill the available container height */
-  max-height: 500px;
-  width: 100%;
-
+  height: 100%;
   position: sticky;
-  top: 188px;
 }
